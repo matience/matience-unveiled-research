@@ -5,7 +5,7 @@ Independent research on matience (mathematical emergence in LLMs) — Locus Prot
 
 **Dernière mise à jour** : 28 mars 2026  
 **Licence** : CC BY-NC-ND 4.0  
-**DOI** : [à générer sur Zenodo]
+**DOI** 
 
 ## Structure du projet (deux couches strictement séparées)
 
